@@ -185,9 +185,9 @@ This is a personal portfolio project. However, **suggestions and feedback** are 
 
 ---
 # Contact
-   - Email: [abdullakhalid7857166@gmail.com](mailto:abdullakhalid7857166@gmail.com)
-   - LinkedIn: [Abdullah Khaled](https://www.linkedin.com/in/abdullah-khaled-393a84233)  
-   - GitHub: [abdallahkhaled72](https://github.com/abdallahkhaled72)
+   - Email: [abdullah.khaled.aboueissa@gmail.com](mailto:abdullah.khaled.aboueissa@gmail.com)
+   - LinkedIn: [Abdullah Khaled](https://www.linkedin.com/in/abdullah-khaled-aboueissa)  
+   - GitHub: [abdallahkhaled72](https://github.com/abdullah-khaled-aboueissa)
 
 ---
   # **If you found this project helpful or interesting, please give it a star on GitHub!** 
